@@ -1,6 +1,6 @@
-##### Predicting MBA scores from Bachelor’s, Higher Secondary, and Secondary Scores using correlation and regression analyses.
+### Predicting MBA scores from Bachelor’s, Higher Secondary, and Secondary Scores using correlation and regression analyses.
 
-> This is an assignment I did for my first-year `CS51 - Formal Analyses` course. The report for my statistical analyses can be found
+> This is an assignment I did for my first-year `CS51 - Formal Analyses` course. The writeup and report for my statistical analyses can be provided upon request. [Reach out to me on LinkedIn](https://linkedin.com/in/kyurikotpq)
 
 I will focus on a dataset of 215 MBA students at XYZ campus in India, obtained from this [Kaggle dataset](https://www.kaggle.com/datasets/benroshan/factors-affecting-campus-placement). If there is
 strong evidence that there is a linear relationship between prior academic performance and
